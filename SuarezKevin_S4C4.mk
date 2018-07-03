@@ -8,3 +8,4 @@ datos.dat : makedatos.py
 python makedatos.py>datos.dat
 datos1.dat : makedatos1.py
 python makedatos1.py>datos1.dat
+#esta es la version corregida 2
